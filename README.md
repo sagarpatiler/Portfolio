@@ -1,5 +1,5 @@
 # Sagar_Portfolio
-Example data science portfolio
+
 
 # [Project 1:Sales Prediction](https://github.com/sagarpatiler/machine_learning/blob/main/Sales_Prediction.ipynb) 
 * Created a model that can predict sales with help of XgboostRegressor.
@@ -9,4 +9,4 @@ Example data science portfolio
 * Evaluation with the help of R2.
 
 ![](![image](https://user-images.githubusercontent.com/115975748/206369806-65286bc0-96d2-4a27-9b8b-e87a106d6d17.png))
-![]([image](https://user-images.githubusercontent.com/115975748/206369873-d835f04f-2485-4705-b06c-dd7a7705989f.png))
+
