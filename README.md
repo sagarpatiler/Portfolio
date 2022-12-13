@@ -14,6 +14,9 @@
     * Accuracy score of the training data :  0.9543973941368078 
     * Accuracy score of the test data :  0.7467532467532467
 * Pandas,sklearn,seaborn,matplotlib libraries were used.
+![heatmap](https://user-images.githubusercontent.com/115975748/207399485-476a6ab3-72e3-4842-a428-fb38103b929a.jpeg)
+
+
 
 ### [Project :Sales Prediction](https://github.com/sagarpatiler/machine_learning/blob/main/Sales_Prediction.ipynb) 
 * Created a model that can predict sales with help of XgboostRegressor.
@@ -64,6 +67,7 @@
 * Xgboost Model was used for the purpose of classification problem.
 * Accuracy on test data =  0.973684210526315
 * AUC-ROC curve was plotted.
+![auc-roc](https://user-images.githubusercontent.com/115975748/207398872-d8e3e525-2c85-4a16-88a8-db30167c8484.jpeg)
 
 
 
