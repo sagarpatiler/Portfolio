@@ -57,6 +57,13 @@
 * Accuracy on Test data :  0.819672131147541. 
 * Pandas,sklearn,seaborn,matplotlib libraries were used.
 
+### [Project :Breast cancer Prediction](https://github.com/sagarpatiler/machine_learning/blob/main/health_3_breast_cancer_prediction.ipynb) 
+* Dataset had 30 dependent features. Dataset was much cleaned.
+* EDA was performed for preliminary insights.
+* Pandas,sklearn,seaborn,matplotlib libraries were used.
+* Xgboost Model was used for the purpose of classification problem.
+* Accuracy on test data =  0.973684210526315
+* AUC-ROC curve was plotted.
 
 
 
