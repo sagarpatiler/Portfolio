@@ -14,7 +14,7 @@
     * Accuracy score of the training data :  0.9543973941368078 
     * Accuracy score of the test data :  0.7467532467532467
 * Pandas,sklearn,seaborn,matplotlib libraries were used.
-![combined](https://user-images.githubusercontent.com/115975748/207767068-383517fa-4fd9-4fed-9319-e4d696b9c48b.jpg)
+* ![combined](https://user-images.githubusercontent.com/115975748/207767068-383517fa-4fd9-4fed-9319-e4d696b9c48b.jpg)
 
 
 
@@ -25,6 +25,8 @@
 * Missing value treatment with mean value for numerical columns and with mode with categorical columns.
 * Used python libraries like Sklearn,pandas,seaborn,matplotlib.pyplot
 * Evaluation with the help of R2.
+* ![merge_from_ofoct](https://user-images.githubusercontent.com/115975748/207768079-f7716e8f-e94b-4cff-8f2d-75c6730018a6.jpg)
+
 
 ### [Project :Bank Loan Status Prediction](https://github.com/sagarpatiler/machine_learning/blob/main/Banks_1_loan_status_prediction.ipynb) 
 * Created a model that can predict loan status with help of XgboostRegressor.
@@ -33,6 +35,8 @@
 * Plotting was done with the help of libraries such as seaborn,matplotlib.
 * Parameter tuning was done with help of GridSearchCV
 * Accuracy was found to be  0.833333
+* ![merge_from_ofoct (1)](https://user-images.githubusercontent.com/115975748/207770005-d91022ee-654c-4c52-86c8-be43d03d8e03.jpg)
+
 
 ### [Project :Car Price Prediction](https://github.com/sagarpatiler/machine_learning/blob/main/car_price_prediction_.ipynb) 
 * Linear Regression Model was created.
