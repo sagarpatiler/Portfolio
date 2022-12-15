@@ -14,7 +14,8 @@
     * Accuracy score of the training data :  0.9543973941368078 
     * Accuracy score of the test data :  0.7467532467532467
 * Pandas,sklearn,seaborn,matplotlib libraries were used.
-![heatmap](https://user-images.githubusercontent.com/115975748/207399485-476a6ab3-72e3-4842-a428-fb38103b929a.jpeg)
+![combined](https://user-images.githubusercontent.com/115975748/207767068-383517fa-4fd9-4fed-9319-e4d696b9c48b.jpg)
+
 
 
 
