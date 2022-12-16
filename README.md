@@ -2,6 +2,15 @@
 
 ## Data Science Project Notebook
 
+### [Project : Mall customers Predictions](https://github.com/sagarpatiler/machine_learning/blob/main/clustering_mall_customers_pyc.ipynb) 
+* Dataset had 5 columns ie. CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100). Dataset was much cleaned.
+* Pycaret,Pandas,seaborn,matplotlib libraries were used.
+* EDA was performed for preliminary insights.
+* K-means clustering model was used for the purpose of clustering problem.
+* With the help of elbow plot 4 clusters were chosen.
+* Silhoutte score graph was plotted.
+* ![combined (1)](https://user-images.githubusercontent.com/115975748/208020818-671d2c79-43bb-4414-ad2d-fb01a07a10cc.jpg)
+
 ### [Project : Diabetes Prediction](https://github.com/sagarpatiler/machine_learning/blob/main/health_proj_1_diabetes_prediction.ipynb) 
 * Dependent features were Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age .
 * Target feature was balanced.
@@ -15,9 +24,6 @@
     * Accuracy score of the test data :  0.7467532467532467
 * Pandas,sklearn,seaborn,matplotlib libraries were used.
 * ![combined](https://user-images.githubusercontent.com/115975748/207767068-383517fa-4fd9-4fed-9319-e4d696b9c48b.jpg)
-
-
-
 
 ### [Project :Sales Prediction](https://github.com/sagarpatiler/machine_learning/blob/main/Sales_Prediction.ipynb) 
 * Created a model that can predict sales with help of XgboostRegressor.
@@ -73,6 +79,10 @@
 * Accuracy on test data =  0.973684210526315
 * AUC-ROC curve was plotted.
 ![auc-roc](https://user-images.githubusercontent.com/115975748/207398872-d8e3e525-2c85-4a16-88a8-db30167c8484.jpeg)
+
+
+
+
 
 
 
