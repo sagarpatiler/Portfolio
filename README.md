@@ -2,7 +2,7 @@
 
 ## Data Science Project Notebook
 
-### [Project : Mall customers Predictions](https://github.com/sagarpatiler/machine_learning/blob/main/clustering_mall_customers_pyc.ipynb) 
+### [Project : Mall customers Predictions (Clustering)](https://github.com/sagarpatiler/machine_learning/blob/main/clustering_mall_customers_pyc.ipynb) 
 * Dataset had 5 columns ie. CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100). Dataset was much cleaned.
 * Pycaret,Pandas,seaborn,matplotlib libraries were used.
 * EDA was performed for preliminary insights.
@@ -11,7 +11,7 @@
 * Silhoutte score graph was plotted.
 * ![combined (1)](https://user-images.githubusercontent.com/115975748/208020818-671d2c79-43bb-4414-ad2d-fb01a07a10cc.jpg)
 
-### [Project : Diabetes Prediction](https://github.com/sagarpatiler/machine_learning/blob/main/health_proj_1_diabetes_prediction.ipynb) 
+### [Project : Diabetes Prediction (Classification)](https://github.com/sagarpatiler/machine_learning/blob/main/health_proj_1_diabetes_prediction.ipynb) 
 * Dependent features were Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age .
 * Target feature was balanced.
 * Standard Scaler was used for scaling purpose.
@@ -25,7 +25,7 @@
 * Pandas,sklearn,seaborn,matplotlib libraries were used.
 * ![combined](https://user-images.githubusercontent.com/115975748/207767068-383517fa-4fd9-4fed-9319-e4d696b9c48b.jpg)
 
-### [Project :Sales Prediction](https://github.com/sagarpatiler/machine_learning/blob/main/Sales_Prediction.ipynb) 
+### [Project :Sales Prediction (Linear Regression)](https://github.com/sagarpatiler/machine_learning/blob/main/Sales_Prediction.ipynb) 
 * Created a model that can predict sales with help of XgboostRegressor.
 * feature columns were Item_Identifier, Item_Weight, Item_Fat_Content, Item_Visibility,Item_Type, Item_MRP,Outlet_Identifier,Outlet_Establishment_Year, Outlet_Size, Outlet_Location_Type,Outlet_Type, Item_Outlet_Sales
 * Missing value treatment with mean value for numerical columns and with mode with categorical columns.
@@ -44,41 +44,57 @@
 * ![merge_from_ofoct (1)](https://user-images.githubusercontent.com/115975748/207770005-d91022ee-654c-4c52-86c8-be43d03d8e03.jpg)
 
 
-### [Project :Car Price Prediction](https://github.com/sagarpatiler/machine_learning/blob/main/car_price_prediction_.ipynb) 
+### [Project :Car Price Prediction (Linear Regression)](https://github.com/sagarpatiler/machine_learning/blob/main/car_price_prediction_.ipynb) 
 * Linear Regression Model was created.
 * R squared score  was found to be  0.8833249177813693.
 * Dependent features were - Car_Name,Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission 
 * Dataset did not have missing values.
 * Libraries such as sklearn,seaborn,matplotlib were used.
 
-### [Project :Gold Price Prediction](https://github.com/sagarpatiler/machine_learning/blob/main/gold_price_prediction.ipynb) 
+### [Project :Gold Price Prediction (Linear Regression)](https://github.com/sagarpatiler/machine_learning/blob/main/gold_price_prediction.ipynb) 
 * RandomForestRegressor Model was used for the purpose of linear regression problem.
 * Shape of the data was (2290, 6)
 * R squared score  was found to be 0.9872775170838556.
 * Dependent features were - SPX,USO,SLV,EUR/USD 
 * Libraries such as sklearn,seaborn,matplotlib were used.
 
-### [Project :Diamond Price Prediction](https://github.com/sagarpatiler/machine_learning/blob/main/diamond_price_pred_pyc.ipynb) 
+### [Project :Diamond Price Prediction (Linear Regression)](https://github.com/sagarpatiler/machine_learning/blob/main/diamond_price_pred_pyc.ipynb) 
 * RandomForestRegressor Model was used for the purpose of linear regression problem.
 * Shape of the data was (2290, 6)
 * R squared score  was found to be 0.9872775170838556.
 * Dependent features were - SPX,USO,SLV,EUR/USD 
 * Libraries such as sklearn,seaborn,matplotlib were used.
 
-### [Project :Heart Disease Prediction](https://github.com/sagarpatiler/machine_learning/blob/main/health_proj_2_heart_disease_prediction.ipynb) 
+### [Project :Heart Disease Prediction (Classification)](https://github.com/sagarpatiler/machine_learning/blob/main/health_proj_2_heart_disease_prediction.ipynb) 
 * Logistic Regression Model was used for the purpose of classification problem.
 * Age,sex,cholesterol,BMI were some of the important dependent features.
 * Accuracy on Test data :  0.819672131147541. 
 * Pandas,sklearn,seaborn,matplotlib libraries were used.
 
-### [Project :Breast cancer Prediction](https://github.com/sagarpatiler/machine_learning/blob/main/health_3_breast_cancer_prediction.ipynb) 
+### [Project :Breast cancer Prediction (Classification)](https://github.com/sagarpatiler/machine_learning/blob/main/health_3_breast_cancer_prediction.ipynb) 
 * Dataset had 30 dependent features. Dataset was much cleaned.
 * EDA was performed for preliminary insights.
 * Pandas,sklearn,seaborn,matplotlib libraries were used.
 * Xgboost Model was used for the purpose of classification problem.
 * Accuracy on test data =  0.973684210526315
 * AUC-ROC curve was plotted.
-![auc-roc](https://user-images.githubusercontent.com/115975748/207398872-d8e3e525-2c85-4a16-88a8-db30167c8484.jpeg)
+
+
+![207398872-d8e3e525-2c85-4a16-88a8-db30167c8484](https://user-images.githubusercontent.com/115975748/210292433-f8cb53c4-fc5f-439f-adad-f21f68feccc9.jpg)
+
+
+### [Project :Fake news classification (NLP)](https://github.com/sagarpatiler/machine_learning/blob/main/health_3_breast_cancer_prediction.ipynb) 
+* With the help of opendatasets package imported data.Dataset had ~4800 unique values.
+* Preprocessing such as stopword removal,punctuation removal,lemmatization is done with the help of spacy library.
+* Spacy large model is used for vectorization of text.
+* Pandas,sklearn,seaborn,matplotlib libraries were used.
+* Train Test split was done with the help of sklearn.model selection.
+* GradientBoostingClassifier was used for the purpose of classification problem.
+* Accuracy was evaluated with the help of confusion matrix.
+* Heatmap was plotted for the graphical representation of evaluation. 
+![Web capture_3-1-2023_65952_github com](https://user-images.githubusercontent.com/115975748/210291244-971cd3fd-c9b1-474d-950a-14ca757b2af3.jpg)
+
+
 
 
 
