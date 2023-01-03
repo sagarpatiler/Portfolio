@@ -1,4 +1,4 @@
-![White Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/115975748/206886804-ed3c47d3-51ee-46f2-a661-feaf30708173.jpg)
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/115975748/210289626-9a43d116-95d4-4e02-b0eb-7b23e159e062.png)
 
 ## Data Science Project Notebook
 
